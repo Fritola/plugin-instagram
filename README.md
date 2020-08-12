@@ -13,5 +13,8 @@ You need the ```nodeJs``` to execute this app
 After cloned this project, you can execute this command in your favorite terminal ```npm i``` and ```npm dev```
 You can see some like this image bellow:
 
+<img src="terminal.JPG" />
 
+And in your browser, type a adreass to application and any username of instagram like that ```http://localhost:3000/nasa```
 
+<img src="list_images.JPG" />
